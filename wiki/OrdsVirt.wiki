@@ -8,7 +8,7 @@ This is a quick overview of the API provided to manage VMs
 legend:           HTTP-METHOD(ParameterType)
 
 /vm               GET 
-/vm/<name>        GET DELETE POST(ChangeRequest) PUT(NodeTypeInfo)
+/vm/<name>        GET DELETE POST(ChangeRequest) PUT(NodeTypeInfo or TemplateInfo)
 /nodetype         GET()
 /nodetype/<name>  GET()
 /status           GET()
