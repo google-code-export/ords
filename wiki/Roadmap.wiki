@@ -1,0 +1,13 @@
+#summary Planned milestone release dates
+
+ORDS is developed in 2-week cycles. The table below shows the planned release dates for milestones listed in the Issue tracker.
+
+|| *Milestone* || *Date* ||
+|| 1.0.0     || Released ||
+|| 1.0.1     || Released ||
+|| 1.0.2     || Released ||
+|| 1.0.3     || 01/09/2014 ||
+|| 1.0.4     || 15/09/2014 ||
+|| 1.0.5     || 29/09/2014 ||
+|| 1.0.6     || 13/09/2014 ||
+|| 1.0.7     || 20/09/2014 ||
