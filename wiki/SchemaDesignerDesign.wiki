@@ -19,7 +19,7 @@ This provides an all-or-nothing approach which has various problems, for example
 = Proposal =
 
 The proposed changes involve keeping the same interface, but changing the background workflow to speed things up, and make changes more atomic.
-  # Clone existing database using a command such as those detailed [http://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgres here]
+  # Clone existing database using a command such as those detailed [http://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgres here] (this is a lot faster than SELECT/INSERTing each table)
   # Load schema from XML
   # As each edit is made, send appropriate CREATE/ALTER/DELETE TABLE statements to the server, editing the clone's schema, waiting for each command to be processed before another change can be made.
   # If step 3 fails, a useful error message about the operation that just took place is displayed
