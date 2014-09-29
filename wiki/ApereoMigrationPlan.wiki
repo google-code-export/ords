@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+Wprk required to open source Oxford Database-as-a-Service software.
 
 = Introduction =
 
@@ -9,4 +9,7 @@ But how much work will this require? Please add the activities we will need to u
 
 = Details =
 
-  * Create debranded version of DaaS (with all Oxford-specific content in a separate file that can easily be added)
+   * Create debranded version of DaaS (with all Oxford-specific content in a separate file that can easily be added). This will include images and text
+   * Separate registration/log-in process so that other institutions can easily substitute their own versions without forking the code
+   * Put the contact email address (ords@it.ox.ac.uk) into a config file for easy changing.
+   * Ensure that there's nothing hard-coded into ORDS that might result in any security issues
