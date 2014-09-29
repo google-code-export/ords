@@ -1,4 +1,4 @@
-Wprk required to open source Oxford Database-as-a-Service software.
+#summary Work required to open source Oxford Database-as-a-Service software.
 
 = Introduction =
 
