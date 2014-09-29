@@ -1,4 +1,4 @@
-#how to approach the public database requirement.
+#summary How to approach the public database requirement.
 
 = Introduction =
 
@@ -17,4 +17,3 @@ One of the initial user requirements of the ORDS was that users should be able t
 Might be worth approaching this in stages.
 
 Please add suggestions for technical solutions here...
-
