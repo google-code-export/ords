@@ -20,3 +20,5 @@ Might be worth approaching this in stages.
 Please add suggestions for technical solutions here...
 
 David suggests adding a new class of user - 'public'
+
+We should enable a project to come up with a preferred format for citation by adding an additional editable metadata field for each database. This will allow them to specify exactly who should be given credit for what.
