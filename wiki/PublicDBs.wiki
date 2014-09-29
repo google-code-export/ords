@@ -1,0 +1,20 @@
+#how to approach the public database requirement.
+
+= Introduction =
+
+One of the initial user requirements of the ORDS was that users should be able to make their whole database open to the public. Somehow this objective got lost somewhere along the way, but we have early adopters with this requirement, so it does need to be implemented sooner rather than later.
+
+= Requirements =
+
+   * Public should be able to view all data in a publicly-accessible database
+   * Public should be able to download a copy of a publicly-accessible database
+   * Public should be able to query a publicly-accessible database within the ORDS
+   * It should be clear how to cite a database held in ORDS
+
+
+= Details =
+
+Might be worth approaching this in stages.
+
+Please add suggestions for technical solutions here...
+
