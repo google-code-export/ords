@@ -8,6 +8,6 @@ ORDS is developed in 2-week cycles. The table below shows the planned release da
 || 1.0.2     || Released ||
 || [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.3 1.0.3]     || Released ||
 || [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.4 1.0.4]     || Released ||
-|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.5 1.0.5]     || 13/10/2014 ||
-|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.6 1.0.6]     || 27/10/2014 ||
-|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.7 1.0.7]     || 10/11/2014 ||
+|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.5 1.0.5]     || 13/10/2014 || Improved schema designer & fully integrated functioning user ODBC || 
+|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.6 1.0.6]     || 27/10/2014 || t.b.c. ||
+|| [https://code.google.com/p/ords/issues/list?can=2&q=milestone=1.0.7 1.0.7]     || 10/11/2014 || t.b.c. ||
