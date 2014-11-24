@@ -1,11 +1,11 @@
-#Proposed suggestions for rationalizing the interface
+# Proposed suggestions for rationalizing the interface
 
 = Introduction =
 
 Basically, the interface as it stands does not seem to me to be as straightforward as it could be. The main issues are:
 
   * Buttons relating to the various database versions don't make sense
-  * No reason why query-related buttons are on the table list page rather than the main database page.
+  * No reason why query-related buttons are buried in the table list page rather than the main database page.
 
 
 = Details =
