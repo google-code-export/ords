@@ -1,4 +1,4 @@
-# Proposed suggestions for rationalizing the interface
+#summary Proposed suggestions for rationalizing the interface
 
 = Introduction =
 
