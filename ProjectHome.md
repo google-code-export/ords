@@ -1,0 +1,1 @@
+The Online Research Database Service is an in-development service that will enable researchers to create, edit, share, and publish databases online via a simple web interface.
